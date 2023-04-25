@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "src": "index.js",
     "test": "test",
-    "start" : "node index.js"
+    "start" : "node index.js",
+    "type": "module"
   },
   "author": "",
   "license": "ISC",
